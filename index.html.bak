@@ -218,7 +218,7 @@
 	<br>
 	<em>Databricks</em> 2022 | <a style="color: #447ec9" href="https://credentials.databricks.com/320b2d70-e5e2-4691-a382-427a4e36a71c">Lakehouse Platform Essentials</a>
 	<br>
-	
+	<img style="width:60%;" src="images/db-lakehouse-cert.jpg"> 
 	</p>
 	
 	
@@ -288,7 +288,10 @@
   <!-- The Skills Section -->
   <div class="w3-container w3-padding-32" id="skills">
     <h2>Skills</h2>
-    <p><li> Python, SQL, Spark, Power BI, Databricks</p>               
+    <p><li> Python, SQL, Spark, Power BI, Databricks, CET4/6</p>    
+	<p><li> Design,develop and deploy webapp platform | <a style="color: #447ec9" href="https://share.streamlit.io/qyu6/tailab/main/main.py">TAILab</a> (Access Code:TAILab)</p>
+	&nbsp &nbsp <img style="width:60%;" src="images/TAILab.jpg"> 
+	<p><li></p> CV - Objective Detection
   </div>  
 
 
